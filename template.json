@@ -21,10 +21,10 @@
             "type": "String"
         },
         "addressPrefixes": {
-            "type": "Array"
+            "type": "String"
         },
         "subnets": {
-            "type": "Array"
+            "type": "String"
         },
         "publicIpAddressName": {
             "type": "String"
